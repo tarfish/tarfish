@@ -7,4 +7,3 @@ Hi, I'm Sarvesh!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarfish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 Hackatime Stats:
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
